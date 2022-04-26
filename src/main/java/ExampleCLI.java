@@ -8,7 +8,7 @@ public class ExampleCLI {
 	// This map represents the argument and its expected number of parameters.
 	// The key is the argument and the value is its expected number of parameters.
 	private static final HashMap<String, Integer> ARGUMENT_MAPPINGS = new HashMap<>(Map.ofEntries(
-			Map.entry("t", 0)
+			Map.entry("", 0)
 	));
 
 	private static final HashSet<String> KNOWN_FLAGS = new HashSet<>(List.of(
