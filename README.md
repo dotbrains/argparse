@@ -2,7 +2,7 @@
 
 *Argument parsing done right based on Java.*
 
-Argument parsing is difficult and some times hard to implement. The inspiration for this project came from a graduate school project that required the implementation of a system that utilizes a CLI program that act as the front-end for the system.
+Argument parsing is difficult and some times hard to implement. So, my goal was to find a way to ease that pain through the creation of an argument parsing library.
 
 ## Requirements
 
