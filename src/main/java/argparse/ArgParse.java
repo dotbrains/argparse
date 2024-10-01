@@ -3,7 +3,7 @@ package argparse;
 import java.util.*;
 
 public class ArgParse {
-	private final ArrayList <String> arguments;
+	private final ArrayList<String> arguments;
 	private final HashMap<String, List<String>> map = new HashMap<>();
 	private final Set<String> flags = new HashSet<>();
 
