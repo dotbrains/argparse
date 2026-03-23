@@ -1,5 +1,7 @@
 # ArgParse ☕
 
+[![License: PolyForm Shield 1.0.0](https://img.shields.io/badge/License-PolyForm%20Shield%201.0.0-blue.svg)](https://polyformproject.org/licenses/shield/1.0.0/)
+
 *Argument parsing done right based on Java.*
 
 Argument parsing is difficult and some times hard to implement. So, my goal was to find a way to ease that pain through the creation of an argument parsing library.
